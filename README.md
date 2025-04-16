@@ -3,8 +3,8 @@
   - LLM Model: Mistral AI
   - Frontend UI: Gradio
   - Dataset: titanic.csv
-
--- Setup Instructions (Command Prompt)
+  - 
+# Setup Instructions (Command Prompt)
       - ollama
       - ollama list
       - ollama pull mistral # Fetch the Mistral model
