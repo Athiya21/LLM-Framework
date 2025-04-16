@@ -5,7 +5,7 @@
   - Dataset: titanic.csv
     
 # Setup Instructions (Command Prompt)
-      . ollama
+      - ollama
       - ollama list
       - ollama pull mistral # Fetch the Mistral model
       - ollama run mistral  # Run the Mistral model
